@@ -1,0 +1,28 @@
+e:\99Games\assignment2\computer\bin\Debug\net9.0\computer.exe
+e:\99Games\assignment2\computer\bin\Debug\net9.0\computer.deps.json
+e:\99Games\assignment2\computer\bin\Debug\net9.0\computer.runtimeconfig.json
+e:\99Games\assignment2\computer\bin\Debug\net9.0\computer.dll
+e:\99Games\assignment2\computer\bin\Debug\net9.0\computer.pdb
+e:\99Games\assignment2\computer\obj\Debug\net9.0\computer.GeneratedMSBuildEditorConfig.editorconfig
+e:\99Games\assignment2\computer\obj\Debug\net9.0\computer.AssemblyInfoInputs.cache
+e:\99Games\assignment2\computer\obj\Debug\net9.0\computer.AssemblyInfo.cs
+e:\99Games\assignment2\computer\obj\Debug\net9.0\computer.csproj.CoreCompileInputs.cache
+e:\99Games\assignment2\computer\obj\Debug\net9.0\computer.dll
+e:\99Games\assignment2\computer\obj\Debug\net9.0\refint\computer.dll
+e:\99Games\assignment2\computer\obj\Debug\net9.0\computer.pdb
+e:\99Games\assignment2\computer\obj\Debug\net9.0\computer.genruntimeconfig.cache
+e:\99Games\assignment2\computer\obj\Debug\net9.0\ref\computer.dll
+C:\Users\Sharath A L\Downloads\assignment2\computer\bin\Debug\net9.0\computer.exe
+C:\Users\Sharath A L\Downloads\assignment2\computer\bin\Debug\net9.0\computer.deps.json
+C:\Users\Sharath A L\Downloads\assignment2\computer\bin\Debug\net9.0\computer.runtimeconfig.json
+C:\Users\Sharath A L\Downloads\assignment2\computer\bin\Debug\net9.0\computer.dll
+C:\Users\Sharath A L\Downloads\assignment2\computer\bin\Debug\net9.0\computer.pdb
+C:\Users\Sharath A L\Downloads\assignment2\computer\obj\Debug\net9.0\computer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharath A L\Downloads\assignment2\computer\obj\Debug\net9.0\computer.AssemblyInfoInputs.cache
+C:\Users\Sharath A L\Downloads\assignment2\computer\obj\Debug\net9.0\computer.AssemblyInfo.cs
+C:\Users\Sharath A L\Downloads\assignment2\computer\obj\Debug\net9.0\computer.csproj.CoreCompileInputs.cache
+C:\Users\Sharath A L\Downloads\assignment2\computer\obj\Debug\net9.0\computer.dll
+C:\Users\Sharath A L\Downloads\assignment2\computer\obj\Debug\net9.0\refint\computer.dll
+C:\Users\Sharath A L\Downloads\assignment2\computer\obj\Debug\net9.0\computer.pdb
+C:\Users\Sharath A L\Downloads\assignment2\computer\obj\Debug\net9.0\computer.genruntimeconfig.cache
+C:\Users\Sharath A L\Downloads\assignment2\computer\obj\Debug\net9.0\ref\computer.dll
