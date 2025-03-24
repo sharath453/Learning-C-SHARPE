@@ -1,0 +1,4 @@
+C:\Users\Sharath A L\Desktop\99Games\obj\Debug\net9.0\99GAMES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharath A L\Desktop\99Games\obj\Debug\net9.0\99GAMES.AssemblyInfoInputs.cache
+C:\Users\Sharath A L\Desktop\99Games\obj\Debug\net9.0\99GAMES.AssemblyInfo.cs
+C:\Users\Sharath A L\Desktop\99Games\obj\Debug\net9.0\99GAMES.csproj.CoreCompileInputs.cache
